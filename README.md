@@ -14,7 +14,7 @@ SARTHI TRAVEL is a website for a travel agency. The website contains details abo
 The main objective of the project is to create a picture perfect travel website with basic functionality.
 ## Tech Stack
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js)
 
 
 ## Features
